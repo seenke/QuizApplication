@@ -78,7 +78,7 @@
                 }
                 this.answerCorrectness = null;
                 this.selectedIndex = index;
-                console.log (index);
+                //console.log (index);
             },
             shuffle(a) {
                 var j, x, i;
